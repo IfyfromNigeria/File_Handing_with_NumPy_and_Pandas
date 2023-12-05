@@ -1,2 +1,2 @@
 # File_Handing_with_NumPy_and_Pandas
- The program uses Numerical Python and Pandas pacakge to open a csv file and perform simple numerical analysis
+This Python script utilizes the NumPy library to analyze a dataset related to loan predictions. The dataset is loaded from a CSV file, and the focus is on the 9th column (index 8) representing loan amounts. The script extracts valid numerical values from this column, calculating and displaying statistical measures such as mean, median, standard deviation, count, and the array of valid loan amounts. It also handles potential conversion errors, providing information on elements that could not be converted to floats
